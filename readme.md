@@ -13,7 +13,8 @@ Materials of the [ProbAI 2026](https://probai.school/), the Probabilistic AI Sch
 
 
 * **Day 3 (Aug 5)**:
-
+  - Jonas Arruda - *Simulation-Based Inference* [[Slides & Material](https://github.com/arrjon/BayesFlowTutorial.git)]
+  
 
 * **Day 4 (Aug 6)**:
 
