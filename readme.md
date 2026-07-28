@@ -9,7 +9,9 @@ Materials of the [ProbAI 2026](https://probai.school/), the Probabilistic AI Sch
     - [[Slide](day-1/Silja-handout-probmodels.pdf)]
     - [[Material: Linear Regression ML](day-1/Silja-DIY-LinearRegressionML.ipynb)]
     - [[Material: MontyHall](day-1/Silja-DIY-MontyHall.ipynb)]
-  - Eliezer de Souza da Silva *Bayesian Workflow and PPLs* [[Slides & Material](day-1/)]
+  - Eliezer de Souza da Silva - *Bayesian Workflow and PPLs* [[Slides & Material ❌](day-1/)]
+  - Gintare Karolina Dziugaite - *Dynamics of Memorization and Generalization in Deep Learning* [[Slides & Material ❌](day-1/)]
+
 
 * **Day 2 (Aug 4)**:
   - Helge Langseth and Thomas D. Nielsen - *Variational Inference and Optimization* [[Slides & Material](https://github.com/HelgeLangseth/ProbAI26-VI-day)]
@@ -17,12 +19,16 @@ Materials of the [ProbAI 2026](https://probai.school/), the Probabilistic AI Sch
 
 * **Day 3 (Aug 5)**:
   - Jonas Arruda - *Simulation-Based Inference* [[Slides & Material](https://github.com/arrjon/BayesFlowTutorial.git)]
-  
+  - Sara Magliacane - *Causal Machine Learning* [[Slides & Material ❌](day-3/)]
 
 * **Day 4 (Aug 6)**:
+  - Claire Vernade - *Contextual Bandits* [[Slides & Material ❌](day-4/)]
+  - Zita Marinho - *Reinforcement Learning* [[Slides & Material ❌](day-4/)]
 
  
 * **Day 5 (Aug 7)**:
+  - Dimitri Meunier - *Kernel Methods* [[Slides & Material ❌](day-3/)]
+  - Rūta Binkyte - *Bias and Safe AI* [[Slides & Material ❌](day-3/)]
 
   
 ## Program
