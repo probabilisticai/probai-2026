@@ -6,9 +6,9 @@ Materials of the [ProbAI 2026](https://probai.school/), the Probabilistic AI Sch
 
 * **Day 1 (Aug 3)**:
   - Silja Renooij  - *Introduction to Probabilistic Models*
-    - [[Slide](day-1/handout-probmodels.pdf)]
-    - [[Material: Linear Regression ML](day-1/DIY-LinearRegressionML.ipynb)]
-    - [[Material: MontyHall](day-1/DIY-MontyHall.ipynb)]
+    - [[Slide](day-1/Silja-handout-probmodels.pdf)]
+    - [[Material: Linear Regression ML](day-1/Silja-DIY-LinearRegressionML.ipynb)]
+    - [[Material: MontyHall](day-1/Silja-DIY-MontyHall.ipynb)]
   - Eliezer de Souza da Silva *Bayesian Workflow and PPLs* [[Slides & Material](day-1/)]
 
 * **Day 2 (Aug 4)**:
