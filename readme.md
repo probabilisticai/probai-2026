@@ -1,6 +1,6 @@
-# ProbAI 2026: Probabilistic AI School
+# ProbAI School 2026
 
-Materials of the [ProbAI 2026](https://probai.school/), the Probabilistic AI School, occurring on 3-7 August 2026 in Vilnius (Lithuania).
+Materials of the [Probabilistic AI School 2026](https://probai.school/), occurring on 3–7 August 2026 in Vilnius (Lithuania).
 
 ## Materials
 
