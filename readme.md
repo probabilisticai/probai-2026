@@ -11,9 +11,9 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
     - [[Material: MontyHall](day-1/Silja-DIY-MontyHall.ipynb)]
   - Eliezer de Souza da Silva - *Bayesian Workflow and PPLs* [[Slides & Material ❌](day-1/)]
     - Notebooks:
-      - Code-along notebook [[Regression (github)](https://github.com/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along1_regression.ipynb)] + [[Regression (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along1_regression.ipynb)] 
-      - Code-along SIR / Linear Dynamic Models
-      - Exercises
+      - Code-along notebook [[Regression (github)](day-1/ppl1_code_along1_regression.ipynb)] + [[Regression (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along1_regression.ipynb)] 
+      - Code-along [[SIR / Linear Dynamic Models (github)](day-1/ppl1_code_along2__sir_temporal.ipynb)] + [[SIR / Linear Dynamic Models (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along2__sir_temporal.ipynb)] 
+      - Exercises [[Student Version (github) ](day-1/ppl1_exercises_student.ipynb)] + [[Student Version (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_exercises_student.ipynb)] 
     - Slides
   - Gintare Karolina Dziugaite - *Dynamics of Memorization and Generalization in Deep Learning* [[Slides & Material ❌](day-1/)]
 
