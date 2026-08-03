@@ -14,7 +14,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
       - Code-along notebook [[Regression (github)](day-1/ppl1_code_along1_regression.ipynb)] + [[Regression (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along1_regression.ipynb)] 
       - Code-along [[SIR / Linear Dynamic Models (github)](day-1/ppl1_code_along2__sir_temporal.ipynb)] + [[SIR / Linear Dynamic Models (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along2__sir_temporal.ipynb)] 
       - Exercises [[Student Version (github) ](day-1/ppl1_exercises_student.ipynb)] + [[Student Version (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_exercises_student.ipynb)] 
-    - Slides
+    - [[Slides](day-1/ppl_slides.pdf)]
   - Gintare Karolina Dziugaite - *Dynamics of Memorization and Generalization in Deep Learning* [[Slides & Material ❌](day-1/)]
 
 
