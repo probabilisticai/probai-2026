@@ -24,7 +24,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
 
 * **Day 3 (Aug 5)**:
   - Jonas Arruda - *Simulation-Based Inference* [[Slides & Material](https://github.com/arrjon/BayesFlowTutorial.git)]
-  - Sara Magliacane - *Causal Machine Learning* [[Slides & Material ❌](day-3/)]
+  - Sara Magliacane - *Causal Machine Learning* [[Slides & Material](day-3/sara-vilnius-probAI-causal.pdf)]
 
 * **Day 4 (Aug 6)**:
   - Claire Vernade - *Contextual Bandits* [[Slides & Material ❌](day-4/)]
