@@ -27,7 +27,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
   - Sara Magliacane - *Causal Machine Learning* [[Slides & Material](day-3/sara-vilnius-probAI-causal.pdf)]
 
 * **Day 4 (Aug 6)**:
-  - Claire Vernade - *Contextual Bandits* [[Slides & Material ❌](day-4/)]
+  - Claire Vernade - *Contextual Bandits* [[Slides](https://docs.google.com/presentation/d/1EoyDQG1d-VoJbeEmVHjli8PzRuNiXHt1Rh5_hRBPOws/present)] [[Notebook (Colab)]([https://docs.google.com/presentation/d/1EoyDQG1d-VoJbeEmVHjli8PzRuNiXHt1Rh5_hRBPOws/present](https://colab.research.google.com/drive/14Rw7Gwoguz2xzUSMnWwhX3HzvR4mYHo_?usp=sharing))]
   - Zita Marinho - *Reinforcement Learning* [[Slides & Material ❌](day-4/)]
 
  
