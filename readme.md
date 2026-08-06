@@ -28,12 +28,12 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
 
 * **Day 4 (Aug 6)**:
   - Claire Vernade - *Contextual Bandits* [[Slides](https://docs.google.com/presentation/d/1EoyDQG1d-VoJbeEmVHjli8PzRuNiXHt1Rh5_hRBPOws/present)] [[Notebook (Colab)](https://colab.research.google.com/drive/14Rw7Gwoguz2xzUSMnWwhX3HzvR4mYHo_?usp=sharing)]
-  - Zita Marinho - *Reinforcement Learning* [[Slides & Material](day4/ProbAI.pdf)]
+  - Zita Marinho - *Reinforcement Learning* [[Slides & Material](day-4/ProbAI.pdf)]
 
  
 * **Day 5 (Aug 7)**:
-  - Dimitri Meunier - *Kernel Methods* [[Slides & Material ❌](day-3/)]
-  - Rūta Binkyte - *Bias and Safe AI* [[Slides & Material ❌](day-3/)]
+  - Dimitri Meunier - *Kernel Methods* [[Slides & Material ❌](day-5/)]
+  - Rūta Binkyte - *Bias and Safety in AI* [[Slides](day-5/Bias_and_Safety_ProbAI_RutaBinkyte_2026.pdf)] [[Notebook (Colab)](https://colab.research.google.com/drive/1GRlk9I6Mhm4agYgxkNELuPxgfYjI0_jv?usp=sharing)]
 
   
 ## Program
