@@ -28,7 +28,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
 
 * **Day 4 (Aug 6)**:
   - Claire Vernade - *Contextual Bandits* [[Slides](https://docs.google.com/presentation/d/1EoyDQG1d-VoJbeEmVHjli8PzRuNiXHt1Rh5_hRBPOws/present)] [[Notebook (Colab)](https://colab.research.google.com/drive/14Rw7Gwoguz2xzUSMnWwhX3HzvR4mYHo_?usp=sharing)]
-  - Zita Marinho - *Reinforcement Learning* [[Slides & Material ❌](day-4/)]
+  - Zita Marinho - *Reinforcement Learning* [[Slides & Material](day4/ProbAI.pdf)]
 
  
 * **Day 5 (Aug 7)**:
