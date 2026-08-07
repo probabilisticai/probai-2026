@@ -32,7 +32,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
 
  
 * **Day 5 (Aug 7)**:
-  - Dimitri Meunier - *Kernel Methods* [[Slides & Material ❌](day-5/)]
+  - Dimitri Meunier - *Kernel Methods* [[Slides & Material](day-5/Dimitri-Kernal-Methods.pdf)]
   - Rūta Binkyte - *Bias and Safety in AI* [[Slides](day-5/Bias_and_Safety_ProbAI_RutaBinkyte_2026.pdf)] [[Notebook (Colab)](https://colab.research.google.com/drive/1GRlk9I6Mhm4agYgxkNELuPxgfYjI0_jv?usp=sharing)]
 
   
