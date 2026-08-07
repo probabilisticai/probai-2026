@@ -15,7 +15,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
       - Code-along [[SIR / Linear Dynamic Models (github)](day-1/ppl1_code_along2__sir_temporal.ipynb)] + [[SIR / Linear Dynamic Models (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_code_along2__sir_temporal.ipynb)] 
       - Exercises [[Student Version (github) ](day-1/ppl1_exercises_student.ipynb)] + [[Student Version (Colab)](https://colab.research.google.com/github/probabilisticai/probai-2026/blob/main/day-1/ppl1_exercises_student.ipynb)] 
     - [[Slides](day-1/ppl_slides.pdf)]
-  - Gintare Karolina Dziugaite - *Dynamics of Memorization and Generalization in Deep Learning* [[Slides & Material ❌](day-1/)]
+  - Gintare Karolina Dziugaite - *Dynamics of Memorization and Generalization in Deep Learning* [[Slides](day-1/Gintare-Memorization-Generalization.pdf)]
 
 
 * **Day 2 (Aug 4)**:
@@ -32,7 +32,7 @@ Materials of the [Probabilistic AI School 2026](https://probai.school/), occurri
 
  
 * **Day 5 (Aug 7)**:
-  - Dimitri Meunier - *Kernel Methods* [[Slides & Material](day-5/Dimitri-Kernal-Methods.pdf)]
+  - Dimitri Meunier - *Kernel Methods* [[Slides](day-5/Dimitri-Kernal-Methods.pdf)]
   - Rūta Binkyte - *Bias and Safety in AI* [[Slides](day-5/Bias_and_Safety_ProbAI_RutaBinkyte_2026.pdf)] [[Notebook (Colab)](https://colab.research.google.com/drive/1GRlk9I6Mhm4agYgxkNELuPxgfYjI0_jv?usp=sharing)]
 
   
